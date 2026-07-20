@@ -1,0 +1,3 @@
+Tour Volcán Osorno;Puerto Varas;Aventura;45000;20
+Tour Saltos del Petrohué;Ensenada;Naturaleza;35000;15
+Tour Lago Llanquihue;Llanquihue;Panorámico;30000;25
